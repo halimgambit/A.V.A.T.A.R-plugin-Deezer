@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"Deezer": {
+			"version": "1.0",
+			"name": "deezer",
+			"rules": {
+				"getDeezer": ["deezer"],
+				"stopDeezer": ["(farm|close) * deezer","deezer farm"]
+			}
+		}
+	}
+}
+			

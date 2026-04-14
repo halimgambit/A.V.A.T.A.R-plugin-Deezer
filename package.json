@@ -1,0 +1,12 @@
+{
+    "name": "Deezer",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin Deezer for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "Deezer"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }
